@@ -3,3 +3,6 @@ Há uma planilha com os dados retirados das imagens divulgadas [AQUI](https://gi
 
 ## Gráfico de casos confirmados até 02/07/2020
 <img src= "confirmados.png">
+
+## Gráfico de óbitos por covid-19 até 02/07/2020
+<img src= "obitos.png">
