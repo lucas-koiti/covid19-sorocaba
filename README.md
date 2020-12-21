@@ -7,7 +7,7 @@ Há uma planilha com os dados retirados das imagens divulgadas [AQUI](https://gi
 2.16% 
 
 ## Gráfico de casos confirmados.
-<img src= "confirmado.png">
+<img src= "confirmados.png">
 
 ## Gráfico de óbitos por covid-19.
-<img src= "obito.png">
+<img src= "obitos.png">
