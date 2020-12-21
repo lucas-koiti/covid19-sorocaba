@@ -4,7 +4,7 @@
 Há uma planilha com os dados retirados das imagens divulgadas [AQUI](https://github.com/lucas-koiti/covid19-sorocaba/blob/master/dados/planilha_csv/dados.csv).
 
 ### Taxa de Letalidade
-2.16% 
+2.163% 
 
 ## Gráfico de casos confirmados.
 <img src= "confirmados.png">
