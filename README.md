@@ -1,10 +1,10 @@
 ## Dados divulgados pela Prefeitura de Sorocaba sobre os casos de Covid-19
-### última atualização: 29/12/2020
+### última atualização: 05/02/2021
 
 Há uma planilha com os dados retirados das imagens divulgadas [AQUI](https://github.com/lucas-koiti/covid19-sorocaba/blob/master/dados/planilha_csv/dados.csv).
 
 ### Taxa de Letalidade
-2.15% 
+2.07% 
 
 ## Gráfico de casos confirmados.
 <img src= "confirmados.png">
